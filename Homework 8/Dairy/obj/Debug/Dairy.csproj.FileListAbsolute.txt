@@ -1,0 +1,13 @@
+D:\GeekBrains геймкодинг\Подготовительный курс\8 урок\Homework 8\Dairy\bin\Debug\Dairy.exe.config
+D:\GeekBrains геймкодинг\Подготовительный курс\8 урок\Homework 8\Dairy\bin\Debug\Dairy.exe
+D:\GeekBrains геймкодинг\Подготовительный курс\8 урок\Homework 8\Dairy\bin\Debug\Dairy.pdb
+D:\GeekBrains геймкодинг\Подготовительный курс\8 урок\Homework 8\Dairy\bin\Debug\Newtonsoft.Json.dll
+D:\GeekBrains геймкодинг\Подготовительный курс\8 урок\Homework 8\Dairy\bin\Debug\Newtonsoft.Json.xml
+D:\GeekBrains геймкодинг\Подготовительный курс\8 урок\Homework 8\Dairy\obj\Debug\Dairy.csprojAssemblyReference.cache
+D:\GeekBrains геймкодинг\Подготовительный курс\8 урок\Homework 8\Dairy\obj\Debug\Dairy.Form1.resources
+D:\GeekBrains геймкодинг\Подготовительный курс\8 урок\Homework 8\Dairy\obj\Debug\Dairy.Properties.Resources.resources
+D:\GeekBrains геймкодинг\Подготовительный курс\8 урок\Homework 8\Dairy\obj\Debug\Dairy.csproj.GenerateResource.cache
+D:\GeekBrains геймкодинг\Подготовительный курс\8 урок\Homework 8\Dairy\obj\Debug\Dairy.csproj.CoreCompileInputs.cache
+D:\GeekBrains геймкодинг\Подготовительный курс\8 урок\Homework 8\Dairy\obj\Debug\Dairy.csproj.CopyComplete
+D:\GeekBrains геймкодинг\Подготовительный курс\8 урок\Homework 8\Dairy\obj\Debug\Dairy.exe
+D:\GeekBrains геймкодинг\Подготовительный курс\8 урок\Homework 8\Dairy\obj\Debug\Dairy.pdb
