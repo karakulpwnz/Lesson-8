@@ -7,31 +7,13 @@ using System.Threading.Tasks;
 namespace Dairy
 {
     /// <summary>
-    /// класс массива записей
+    /// Класс записи в дневнике
     /// </summary>
-    public class Notes
-    {
-        public Note[] myNotes;
-    } 
     public class Note
     {
-        public string date;
-        public string place;
-        public string header;
-        public string text;
-        /// <summary>
-        /// Класс записи в дневнике
-        /// </summary>
-        /// <param name="date">Дата записи в формате мм/дд</param>
-        /// <param name="place">Физическое место, где была сделана запись (домаб работа и т.д.)</param>
-        /// <param name="header">Заголовок записи</param>
-        /// <param name="text">Текст записи</param>
-        //public Note(string date, string place, string header, string text)
-        //{
-        //    this.date = date;
-        //    this.place = place;
-        //    this.header = header;
-        //    this.text = text;
-        //}
+        public string date { get; set; }
+        public string place { get; set; }
+        public string title { get; set; }
+        public string note { get; set; }
     }
 }
